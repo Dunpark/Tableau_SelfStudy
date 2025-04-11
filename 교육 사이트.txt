@@ -1,0 +1,4 @@
+- DKBMC(공부해요 태블로)
+https://www.youtube.com/watch?v=3ovkUe-TP1w&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=3
+- 태블로 가이드
+https://help.tableau.com/current/guides/get-started-tutorial/ko-kr/get-started-tutorial-home.htm
